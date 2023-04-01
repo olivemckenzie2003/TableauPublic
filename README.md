@@ -12,7 +12,6 @@ Link to my account on Tableau Public
 https://public.tableau.com/app/profile/olive.mckenzie
 
 Cleaned data in Tableau by obmitting null values
->>>>>>> 6f1e3aa25ae7317d1f53e1560aeb07bb1459b353
 
 Citbike
 
@@ -48,7 +47,7 @@ Distanced travel was calculated within tableau workbook
 Visualisations were performed with tableau workbook to answer questions of the assignment 
 
 =======
->>>>>>> 6f1e3aa25ae7317d1f53e1560aeb07bb1459b353
+
 
 One story board, two Dash boards were created
 
@@ -68,7 +67,7 @@ An attempt was made to answer all the following questions in the form of tables,
 
 
 =======
->>>>>>> 6f1e3aa25ae7317d1f53e1560aeb07bb1459b353
+
 Questions From the Citi Bike assignment
 
 How many trips have been recorded in total during the chosen period?
@@ -110,4 +109,4 @@ Basic: A static map that plots all bike stations with a visual indication of the
 
 =======
 Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
->>>>>>> 6f1e3aa25ae7317d1f53e1560aeb07bb1459b353
+
