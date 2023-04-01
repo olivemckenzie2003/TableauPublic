@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TableauPublic
 
 
@@ -24,7 +24,7 @@ Some python code was written "TimeDiff.ipynb" to find the difference between tri
 Distanced travel was calculated within tableau workbook
 
 Visualisations were performed with tableau workbook to answer questions of the assignment
-<<<<<<< HEAD
+
 =======
 Citbike 
 
@@ -59,7 +59,7 @@ latitude and longitude were used for the zip code on the static map
 
 An attempt was made to answer all the following questions in the form of tables, tableau visualisations and a report.
 
-<<<<<<< HEAD
+
 =======
 
 An attempt was made to answer all the following questions in the form of tables, tableau visualisations and a report.
@@ -100,7 +100,7 @@ Use your visualizations (not necessarily all of them) to design a dashboard for 
 
 Create one of the following visualizations for city officials:
 
-<<<<<<< HEAD
+
 
 Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
 =======
